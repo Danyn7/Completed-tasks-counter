@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: 'SpecialElite';
+    src: url(/cool/fonts/SpecialElite-Regular.ttf);
+}
+
+
+
+.button1 {
+    width: 500px;
+    height: 500px;
+    font-size: 100px;
+    font-style: normal;
+    font-family: 'SpecialElite';
+    background-color: #6F9FD8;
+    color: white;
+    border-color: transparent;
+    border-radius: 25px;
+    margin-left: 1105px;
+}
+
+
+.space {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 100px;
+    margin-top: 250px;
+   
+}
+
+.p1 {
+    font-family: 'SpecialElite';
+    font-size: 100px;
+    font-style: normal;
+    color: #6F9FD8;
+    margin-left: 718px;
+
+}
